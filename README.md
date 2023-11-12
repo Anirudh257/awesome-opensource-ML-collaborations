@@ -25,5 +25,6 @@ It is imperative to democratizing AI and opening doors to candidates all across 
 | LLM Reading Club | Discussion on LLM papers | https://discord.gg/hnTecst8J5
 | Open Assistant | Open collaboration for improving Conversational AI | https://discord.com/invite/H769HxZyb5
 | ARBML | AI collaboration for tasks in Arabic language | https://t.co/o55XxEUvB5
+| RWKV | RNN model with transformer-level performance for faster training and inference | https://discord.com/invite/bDSBUMeFpc
 
-Feel free to add a pull-request
+Feel free to add a pull-request.
