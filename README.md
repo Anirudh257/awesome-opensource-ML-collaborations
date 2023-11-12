@@ -1,12 +1,12 @@
 # Awesome-opensource-ML-collaborations
 ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) [![Track Awesome List](https://www.trackawesomelist.com/badge.svg)](https://www.trackawesomelist.com/josephmisiti/awesome-machine-learning/)
 
-It is imperative to democratizing AI and opening doors to candidates all across the world. This repository aims to keep a list of online ML discord/slack servers for collaboration and discussion about different AI topics.
+It is imperative to democratize access to AI and open doors to researchers of all backgrounds.  This repository aims to keep a list of online ML discord/slack servers for collaboration and discussion.
 
 | Server Name | Description     |   Link |
 | ------------- | ------------- | --------|
-| OpenEmphatic  | Collecting an Open-source audio dataset to infuse AI systems with empathy and and emotional intelligence.  | https://discord.gg/c9BwmcJenS
-| Autogen  | Microsoft framework for development of LLM applications  | https://discord.gg/pAbnFJrkgZ
+| OpenEmphatic  | Collecting an Open-source audio dataset to infuse AI systems with empathy and emotional intelligence.  | https://discord.gg/c9BwmcJenS
+| Autogen  | Microsoft framework for the development of LLM applications  | https://discord.gg/pAbnFJrkgZ
 | AlignmentAI  | Improving alignment of open-source ML models  | https://discord.gg/WY8mJ48cEN
 | Weights & Biases  | Various use-cases of the Weights and Biases library and courses  | https://discord.gg/N8x7cByxur
 | Multimodal Minds  | Discussion about Multimodal AI applications  | https://discord.gg/gjnE67Z4zS
