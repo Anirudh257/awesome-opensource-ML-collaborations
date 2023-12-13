@@ -7,6 +7,7 @@ It is imperative to democratize access to AI and open doors to researchers of al
 | ------------- | ------------- | --------|
 | OpenEmphatic  | Collecting an Open-source audio dataset to infuse AI systems with empathy and emotional intelligence.  | https://discord.gg/c9BwmcJenS
 | Autogen  | Microsoft framework for the development of LLM applications  | https://discord.gg/pAbnFJrkgZ
+| Autogpt | Build your own GPT model | https://discord.gg/autogpt
 | AlignmentAI  | Improving alignment of open-source ML models  | https://discord.gg/WY8mJ48cEN
 | Weights & Biases  | Various use-cases of the Weights and Biases library and courses  | https://discord.gg/N8x7cByxur
 | Multimodal Minds  | Discussion about Multimodal AI applications  | https://discord.gg/gjnE67Z4zS
