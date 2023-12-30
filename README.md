@@ -7,7 +7,7 @@ It is imperative to democratize access to AI and open doors to researchers of al
 | ------------- | ------------- | --------|
 | OpenEmphatic  | Collecting an Open-source audio dataset to infuse AI systems with empathy and emotional intelligence.  | https://discord.gg/c9BwmcJenS
 | Autogen  | Microsoft framework for the development of LLM applications  | https://discord.gg/pAbnFJrkgZ
-| Autogpt | Build your own GPT model | https://discord.gg/autogpt
+| Autogpt | Build your GPT model | https://discord.gg/autogpt
 | AlignmentAI  | Improving alignment of open-source ML models  | https://discord.gg/WY8mJ48cEN
 | Weights & Biases  | Various use-cases of the Weights and Biases library and courses  | https://discord.gg/N8x7cByxur
 | Multimodal Minds  | Discussion about Multimodal AI applications  | https://discord.gg/gjnE67Z4zS
@@ -18,12 +18,13 @@ It is imperative to democratize access to AI and open doors to researchers of al
 | Carper AI | An open research forum for improving human preference learning at scale  | https://discord.com/invite/KgfkCVYHdu
 | Tinygrad | Developing a simple neural network framework  | https://discord.com/invite/ZjZadyC7PK
 | OpenBioML | Open collaboration on Bio + ML projects  | https://discord.gg/QzkmcXeWf9
-| Laion AI | Collaboration on dataset, tools for ML research  | https://discord.gg/Xggtv4t2YZ
+| Laion AI | Collaboration on datasets, tools for ML research  | https://discord.gg/Xggtv4t2YZ
 | Eleuther AI | Open-source ML collaboration for replicating AI models.  | https://discord.gg/K5c2DFpdfZ
 | Farama Foundation | Developing open-source reinforcement learning tools  | https://discord.gg/P67VE7pKU3
 | Lablab.ai | Hackathons on new ML tools | https://discord.gg/XnxrJ8ytRs
 | Agora | Contribute to ML projects on multimodal AI and reproduce ML models | https://discord.gg/FasEftgEXs
 | LLM Reading Club | Discussion on LLM papers | https://discord.gg/hnTecst8J5
+| CUDA MODE| Discuss about Cuda | https://discord.com/invite/jqYdBWreqb
 | Open Assistant | Open collaboration for improving Conversational AI | https://discord.com/invite/H769HxZyb5
 | ARBML | AI collaboration for tasks in Arabic language | https://t.co/o55XxEUvB5
 | RWKV | RNN model with transformer-level performance for faster training and inference | https://discord.com/invite/bDSBUMeFpc
