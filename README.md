@@ -25,6 +25,7 @@ It is imperative to democratize access to AI and open doors to researchers of al
 | Agora | Contribute to ML projects on multimodal AI and reproduce ML models | https://discord.gg/FasEftgEXs
 | LLM Reading Club | Discussion on LLM papers | https://discord.gg/hnTecst8J5
 | CUDA MODE| Discuss about Cuda | https://discord.com/invite/jqYdBWreqb
+| LMSys.Org | Developing open-source language models | https://discord.com/invite/HSWAKCrnFx
 | Open Assistant | Open collaboration for improving Conversational AI | https://discord.com/invite/H769HxZyb5
 | ARBML | AI collaboration for tasks in Arabic language | https://t.co/o55XxEUvB5
 | RWKV | RNN model with transformer-level performance for faster training and inference | https://discord.com/invite/bDSBUMeFpc
