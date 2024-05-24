@@ -30,6 +30,7 @@ It is imperative to democratize access to AI and open doors to researchers of al
 | ARBML | AI collaboration for tasks in the Arabic language | https://t.co/o55XxEUvB5
 | RWKV | RNN model with transformer-level performance for faster training and inference | https://discord.com/invite/bDSBUMeFpc
 | Nous Research | Building LLMs for edge-devices | https://discord.gg/jqVphNsB4H
+| Irina Rish's AGI discord | AGI-related paper discussion | https://discord.gg/dw945k9hSR
 | Omdena | Collaborative projects on designing AI solutions. | https://omdena.com/
 
 Feel free to add a pull request.
