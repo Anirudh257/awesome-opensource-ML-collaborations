@@ -32,6 +32,7 @@ It is imperative to democratize access to AI and open doors to researchers of al
 | Nous Research | Building LLMs for edge-devices | https://discord.gg/jqVphNsB4H
 | Irina Rish's AGI discord | AGI-related paper discussion | https://discord.gg/dw945k9hSR
 | Omdena | Collaborative projects on designing AI solutions. | https://omdena.com/
-| Synthlabs | AI Alignment | https://discord.gg/46uN42SE6x
+| Synthlabs | AI Alignment | https://discord.gg/46uN42SE6x 
+| Camel-AI | LLM Multi-agent Framework | http://discord.camel-ai.org/
 
 Feel free to add a pull request.
