@@ -1,5 +1,7 @@
+
+
 # Awesome-opensource-ML-collaborations
-![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) [![Track Awesome List](https://www.trackawesomelist.com/badge.svg)](https://www.trackawesomelist.com/josephmisiti/awesome-machine-learning/)
+![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) [![Track Awesome List](https://www.trackawesomelist.com/badge.svg)](https://www.trackawesomelist.com/Anirudh257/awesome-opensource-ML-collaborations/)
 
 It is imperative to democratize access to AI and open doors to researchers of all backgrounds.  This repository aims to keep a list of online ML discord/slack servers for collaboration and discussion.
 
